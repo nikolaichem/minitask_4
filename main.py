@@ -1,5 +1,6 @@
 def some_func():
-	retirn "some text"
+	return "some text"
 
-text = som_func()
-print text
+if __name__ == "__main__":
+	text = some_func()
+	print(text)
