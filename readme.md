@@ -10,7 +10,7 @@
 ## Задача 2
 * Необходимо сделать Pull Request c добавлением какой-либо команды в [git_commands.md](/git_commands.md) в **main**
 ## Задача 3
-* Необходимо замержить ветку **merge_from** в **merge_to** и сделать Pull Request результирующей ветки в **task3**
+* Необходимо замерджить ветку **merge_from** в **merge_to** и сделать Pull Request результирующей ветки в **task3**
 ## Задача 4
 * Необходимо сделать revert коммита с тегом `for_revert` из ветки **revert_task** и сделать Pull Request результирующей ветки в **task4**
 ## Решения
