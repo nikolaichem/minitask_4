@@ -7,7 +7,7 @@
 - Для репозитория (`--local`)
 #### Установить имя
 ```sh
-$ git config --global user.name [name]
+$ git config --global user.name [your name]
 ```
 #### Установить почту
 ```sh
