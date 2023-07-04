@@ -11,7 +11,7 @@ $ git config --global user.name [your name]
 ```
 #### Установить почту
 ```sh
-$ git config --global user.email [email]
+$ git config --global user.email [your email]
 ```
 #### Включить подпись коммитов по умолчанию
 ```sh
