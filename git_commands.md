@@ -165,6 +165,11 @@ $ git revert <commit-hash>
 git reset --hard HEAD
 ```
 
+#### Удалить лишнее (неотслеживаемые файлы)
+```sh
+git clean
+```
+
 ## Полезные ресурсы
 * [https://git-scm.com](https://git-scm.com) - основная страница git
 * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - Книга Майкла Хартла, посвященная Git с самых основ
