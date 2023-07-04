@@ -164,6 +164,7 @@ $ git revert <commit-hash>
 ```sh
 git reset --hard HEAD
 ```
+$ git merge add-git-command
 
 ## Полезные ресурсы
 * [https://git-scm.com](https://git-scm.com) - основная страница git
