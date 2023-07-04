@@ -1,5 +1,13 @@
 ﻿# Основные команды git
+## Генерация ключа GPG
+```sh
+$ gpg --gen-key
+```
 
+## Использование ключа GPG для подписи
+```sh
+$ git config --global user.signingkey 0A46826A
+```
 ## Установка Git на Linux
 ```sh
 $ sudo apt update
