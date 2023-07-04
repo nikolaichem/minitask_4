@@ -1,101 +1,22 @@
 ﻿# Основные команды git
-
-## Работа с конфигурацией
-Типы настроек (property_type):
-- Системная (`--system`)
-- Пользовательская (`--global`)
-- Для репозитория (`--local`)
-#### Установить имя
-```sh
-$ git config --global user.name [name]
-```
-#### Установить почту
-```sh
-$ git config --global user.email [email]
-```
-#### Включить подпись коммитов по умолчанию
-```sh
-$ git config --global commit.gpgsign true
-```
-#### Получить все настройки
-```sh
-$ git config --list
-```
-Настройки снизу переопределяют те, что вверху
-#### Откуда именно взяли настройку
-```sh
-$ git config --show-origin [property_name]
-```
-#### Удалить настройку
-```sh
-$ git config [property_type] --unset [property_name]
-```
-
-## Работа с репозиторием
-
-#### Создать локальный репозиторий
-
-```sh
-$ git init
-```
-
-#### Клонировать удаленный репозиторий
-
-```sh
-$ git clone [url]
-```
-
-
-Чтобы клонировать в папку с произвольным именем:
-
-```sh
-$ git clone [url] [folder_name]
-```
-#### Добавить удаленный репозиторий
-```sh
-$ git remote add [repository_name] [url]
-```
-#### Удалить удаленнный репозиторий
-```sh
-$ git remote remove [repository_name]
-```
-#### Просмотреть список удаленных репозиториев
-```sh
-$ git remote -v
-```
-#### Просмотр удаленного репозитория
-```sh
-$ git remote show [remote-name]
-```
-
-## Состояние репозитория
-#### Просмотреть статус файлов в репозитории
-```sh
-$ git status
-```
-
-## Работа с файлами в репозитории
-#### Подготовить файлы к коммиту
-```sh
-$ git add [file or folder]
 ```
 
 #### Интерактивное добавление изменений
 ```sh
-$ git add -p
+$ git add -pghjghjghjf7vlti
 ```
 
 #### Удалить файл из репозитория
 ```sh
-$ git rm [file or folder]
+$ git rm [file or folderkluli.bunik.l]
 ```
 #### Удалить файл из staging area, но оставить в рабочей директории
 ```sh
-$ git rm --cached [file]
+$ git rm --cached [fiytvykujle]
 ```
 #### Переименовать (переместить) файл в репозитории
 ```sh
-$ git mv [from] [to]
+$ git mv [from] [tl yhkhbko]
 ```
 
 ## Работа с ветками
