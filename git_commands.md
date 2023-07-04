@@ -1,5 +1,6 @@
 ﻿# Основные команды git
 #krya
+#cringe number infinity
 ## Работа с конфигурацией
 Типы настроек (property_type):
 - Системная (`--system`)
