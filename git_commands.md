@@ -183,4 +183,3 @@ git reset --hard HEAD
 
 
 *This text for revert*
-*Second text for revert*
