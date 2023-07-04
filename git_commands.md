@@ -1,5 +1,10 @@
 ﻿# Основные команды git
 
+## Установка Git на Linux
+```sh
+$ sudo apt update
+$ sudo apt install git
+```
 ## Работа с конфигурацией
 Типы настроек (property_type):
 - Системная (`--system`)
@@ -130,6 +135,11 @@ $ git mergetool
 #### Извлечь данные из репозитория
 ```sh
 $ git fetch [<options>] [<repository> [<refspec>…​]]
+```
+
+#### Переключиться в ветку main или master
+```sh
+$ git checkout main /$ git checkout master
 ```
 
 ## Работа с коммитами
