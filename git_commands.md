@@ -1,5 +1,5 @@
 ﻿# Основные команды git
-
+# team 13
 ## Работа с конфигурацией
 Типы настроек (property_type):
 - Системная (`--system`)
@@ -38,7 +38,9 @@ $ git config [property_type] --unset [property_name]
 ```sh
 $ git init
 ```
-
+```sh
+$ git status
+```
 #### Клонировать удаленный репозиторий
 
 ```sh
