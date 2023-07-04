@@ -165,6 +165,10 @@ $ git revert <commit-hash>
 git reset --hard HEAD
 ```
 
+#### Удалить связь с репозиторием
+````sh
+$ git remote remove <repositpry name>
+
 ## Полезные ресурсы
 * [https://git-scm.com](https://git-scm.com) - основная страница git
 * [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) - Книга Майкла Хартла, посвященная Git с самых основ
