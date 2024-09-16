@@ -1,5 +1,7 @@
 ﻿# Основные команды git
-
+#krya
+#cringe number infinity
+#last one i swear
 ## Работа с конфигурацией
 Типы настроек (property_type):
 - Системная (`--system`)
@@ -164,6 +166,7 @@ $ git revert <commit-hash>
 ```sh
 git reset --hard HEAD
 ```
+$ git merge add-git-command
 
 ## Полезные ресурсы
 * [https://git-scm.com](https://git-scm.com) - основная страница git
